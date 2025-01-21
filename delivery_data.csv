@@ -1,0 +1,11 @@
+;Destination;Coordinates;driving_duration;driving_distance;walking_duration;walking_distance;bicycling_duration;bicycling_distance
+0;1;(47.509307272028416, 21.60805303894596);11 mins;5.1 km;49 mins;3.7 km;12 mins;3.7 km
+1;2;(47.51198334944904, 21.70149548546758);15 mins;7.0 km;1 hour 29 mins;6.5 km;22 mins;6.9 km
+2;3;(47.555001338782176, 21.601992649559794);13 mins;5.3 km;58 mins;4.3 km;15 mins;4.5 km
+3;4;(47.503094406634915, 21.658524626202016);12 mins;5.1 km;1 hour 3 mins;4.6 km;19 mins;5.0 km
+4;5;(47.562040233409036, 21.608127961495004);13 mins;5.2 km;56 mins;4.1 km;15 mins;4.5 km
+5;6;(47.50568795655142, 21.694196003794872);16 mins;7.6 km;1 hour 33 mins;6.8 km;24 mins;7.4 km
+6;7;(47.49893696651187, 21.61971029359214);12 mins;5.9 km;1 hour 6 mins;4.9 km;16 mins;4.9 km
+7;8;(47.543776962317885, 21.62536343902461);11 mins;4.1 km;21 mins;1.5 km;8 mins;2.1 km
+8;9;(47.54175812296272, 21.611602100889083);9 mins;3.3 km;30 mins;2.2 km;8 mins;2.2 km
+9;10;(47.51929339894014, 21.58345100164804);15 mins;6.1 km;1 hour 4 mins;4.7 km;15 mins;4.7 km
